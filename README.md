@@ -2,6 +2,8 @@
 
 This is a simple Arduino project which demonstrates how to control a 7-segment display using a single push button. Each press of the button increments the displayed digit from `0` through `9`, then wraps back to `0`.
 
+You can find the tinkercad for this project [HERE](https://www.tinkercad.com/things/bkXb4d2VuoZ-seven-segment-counter).
+
 ---
 
 ## Table of Contents
