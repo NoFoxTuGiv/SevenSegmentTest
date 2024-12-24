@@ -1,7 +1,7 @@
 /********************************************************************************
  * File: SevenSegmentButton.ino
- * Author: [Your Name or Team Name]
- * Created: [Date]
+ * Author: NoFoxTuGiv
+ * Created: 12/23/2024
  *
  * Description:
  * This Arduino sketch demonstrates how to control a 7-segment display
