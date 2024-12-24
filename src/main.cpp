@@ -40,6 +40,8 @@ void setup() {
   // Optional: If you need serial output for debugging,
   // uncomment the line below.
   // Serial.begin(9600);
+  
+  zero();
 }
 
 void loop() {
