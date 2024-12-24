@@ -23,7 +23,7 @@
  * 3. Adjust or remove the delay() if you want a faster response or want to fine-
  *    tune button debouncing (hardware debouncing may also be used).
  ********************************************************************************/
-/// Include the Arduino library for VSCode and PlatformIO (optional)
+// Include the Arduino library for VSCode and PlatformIO (optional)
 #include "Arduino.h"
 
 const byte a = 2, b = 3, c = 4, d = 5, e = 6, f = 7, g = 8, btnPin = 9;
