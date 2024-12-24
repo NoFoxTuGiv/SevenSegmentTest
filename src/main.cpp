@@ -22,6 +22,8 @@
  *    -> ... -> 9 -> back to 0).
  * 3. Adjust or remove the delay() if you want a faster response or want to fine-
  *    tune button debouncing (hardware debouncing may also be used).
+ * 
+ * You can view a tinkercad of this project here: https://www.tinkercad.com/things/bkXb4d2VuoZ-seven-segment-counter
  ********************************************************************************/
 // Include the Arduino library for VSCode and PlatformIO (optional)
 #include "Arduino.h"
