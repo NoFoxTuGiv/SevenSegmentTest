@@ -114,7 +114,7 @@ If you have the Serial Monitor enabled (`Serial.begin(9600)`), you can uncomment
 
 ## License
 
-TBD
+MIT license
 
 ---
 
